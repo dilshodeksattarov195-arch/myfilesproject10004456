@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevave",
+        "uuid": 12655040,
+        "checksum": "p344uc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
